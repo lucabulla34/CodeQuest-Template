@@ -11,6 +11,10 @@ namespace TrainWizard
             int wizardLevel = 1;
             int day = 1;
 
+            do
+            {
+
+            } while (day < 5); //MODIFICAR PORQUE ESTO ES INCORRECTO, PUESTO SOLO PARA QUE NO DÉ ERROR
         }
     }
 }
